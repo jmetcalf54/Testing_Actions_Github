@@ -16,5 +16,6 @@ public class Main {
         System.out.println(map1.get(77));
 
         System.out.println(map1);
+        System.out.println(map1.get(1));
     }
 }
